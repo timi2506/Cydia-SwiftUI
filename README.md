@@ -6,4 +6,4 @@ This App is based on sunstar16's CydiaWeb (https://sunstar16.github.io/CydiaWeb/
 It uses native SwiftUI Elements and has iOS 18 Tinted Icon Support
 
 ## How to try it out/check out the UI
-Either download the ipa from the Releases Tab or click the appetize.io link there to try it in an online simulator
+Either download the ipa from the [Releases](https://appetize.io/app/b_bcdm3xqogwq4q5ttrd2srmince) Tab or click the appetize.io link there to try it in an online simulator
